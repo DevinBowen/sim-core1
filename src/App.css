@@ -43,3 +43,14 @@ video {
   position: absolute;
   bottom: 0;
 }
+/* 26H */
+button:hover {
+  color: #fff;
+}
+
+/* 29C 29D */
+@media(max-width:500px){
+  .footer {
+    background-color: beige;
+  }
+}
